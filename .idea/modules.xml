@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/09_Spring_teamwork.iml" filepath="$PROJECT_DIR$/.idea/09_Spring_teamwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debt-checker/Debt-checker.iml" filepath="$PROJECT_DIR$/Debt-checker/Debt-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick-loan/Quick-loan.iml" filepath="$PROJECT_DIR$/Quick-loan/Quick-loan.iml" />
+    </modules>
+  </component>
+</project>
